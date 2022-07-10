@@ -2,3 +2,7 @@
 /build
 /tutorial-env
 **/__pycache__/
+
+# outputs
+joker.txt
+json-joker.json
